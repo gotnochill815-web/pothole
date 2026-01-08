@@ -25,8 +25,6 @@ This Google Colab notebook implements a **binary image classification model** to
 - `pothole_resnet50_ts.pt` (TorchScript)
 - `pothole_resnet50.onnx` (ONNX)
 
-## 📊 Results
-- Validation accuracy ≈ **98%**
 
 This notebook is self-contained and designed to run end-to-end on Google Colab.
 
